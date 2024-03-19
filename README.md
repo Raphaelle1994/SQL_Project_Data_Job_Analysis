@@ -1,6 +1,6 @@
 # Introduction
 
-📊 This project focuses on on data analyst roles and aims to identify top-paying jobs, in-demand skills, and high paying skills within the french job market!
+📊 This project focuses on on data analyst roles and aims to identify top-paying jobs, in-demand skills, and high paying skills within the French job market!
 
 🔍 [Link to SQL queries](/project_sql/)
 
