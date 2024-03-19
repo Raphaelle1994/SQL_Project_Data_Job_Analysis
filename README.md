@@ -2,6 +2,7 @@
 
 📊 This project focuses on on data analyst roles and aims to identify top-paying jobs, in-demand skills, and high paying skills within the French job market!
 
+
 🔍 [Link to SQL queries](/project_sql/)
 
 # Queries
@@ -58,9 +59,9 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Salary Range:** Top 10 paying data analyst roles in France (excluding Paris) span from $100,000 to $200,000.
 - **Diverse Employers:** Companies like Withings, ARCHIMED, and Binance are among those offering high salaries, showing a broad interest across various industries.
 
-![Top paying roles](project_sql\Assets\top_paying_jobs.png)
+![Top paying roles](Assets\top_paying_jobs.png)
 
-*Visualisation of the 10 highest salaries for a Data Analyst in France and the companies that offer them - Graph henerated with Tableau *
+*Visualisation of the 10 highest salaries for a Data Analyst in France and the companies that offer them - Graph generated with Tableau*
 
 ### 2. Skills for Top Paying Jobs
 
@@ -96,14 +97,20 @@ ORDER BY
     salary_year_avg DESC;
 ```
 
-Here's the breakdown of the most demanded skills for data analysts in France in 2023, based on job postings:
+Here's the breakdown of the most demanded skills for data analysts in France in 2023, based on the 10 highest paid job postings:
 
 1. SQL is leading with a bold count of 8.
 2. Python follows closely with a bold count of 7.
 3. Tableau is also highly sought after, with a bold count of 5.
 4. Other skills like C, R, Azure, Power BI and Excel show varying degrees of demand.
 
---- TO DO - Insert Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts. 
+| Skills   | Demand Count |
+|----------|--------------|
+| SQL      | 8            |
+| Python   | 7            |
+| Tableau  | 5            |
+| Excel    | 3            |
+| Power BI | 3            |
 
 ### 3. In-Demand Skills for Data Analysts
 
@@ -225,7 +232,9 @@ LIMIT 5;
 ```
 Python stands out as the most optimal skill and has both a  high demand and a high average salary of $94724. Other valuablle skills include azure, excel, sql and power BI.
 
-INSERT *CHART of the most optimal skills for data analyst*
+![Optimal skills](Assets\optimal_skills.png)
+
+*Visualisation of the average salaries and demand count for data analyst positions in France - Graph generated with Tableau*
 
 # What I Learned
 
@@ -233,9 +242,9 @@ In this journey, I've put my SQL arsenal to use with various techniques:
 
 🧩 Complex Queries: intricate SQL operations such as merging tables and using WITH clauses to create temporary tables.
 
-📊 Data Aggregation: I've used GROUP BY as well as aggregate functions like COUNT() and AVG() to succinctly summarize data.
+📊 Data Aggregation: use of GROUP BY as well as aggregate functions like COUNT() and AVG() to succinctly summarize data.
 
-💡 Analytical Expertise: I solved real-world questions with SQL by turning real life questions into SQL queries.
+💡 Analytical Expertise: turning real life questions into SQL queries.
 
 # Conclusion
 
@@ -260,6 +269,7 @@ This project has not only enhanced my SQL proficiency but also provided invaluab
 Aspiring data analysts can gain a competitive edge by focusing on high-demand, high-salary skills. This exploration underscores the significance of continuous learning and adaptation to evolving trends in the realm of data analytics.
 
 
+To do this project, I followed a course provided by Luke Barousse:
 
-
+> **Source:** [Luke Barousse](https://github.com/lukebarousse)
 
