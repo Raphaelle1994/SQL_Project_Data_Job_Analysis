@@ -59,7 +59,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Salary Range:** Top 10 paying data analyst roles in France (excluding Paris) span from $100,000 to $200,000.
 - **Diverse Employers:** Companies like Withings, ARCHIMED, and Binance are among those offering high salaries, showing a broad interest across various industries.
 
-![Top_paying_jobs](Assets\top_paying_jobs.png)
+![Top_paying_jobs](Assets/top_paying_jobs.png)
 
 *Visualisation of the 10 highest salaries for a Data Analyst in France and the companies that offer them - Graph generated with Tableau*
 
@@ -232,7 +232,7 @@ LIMIT 5;
 ```
 Python stands out as the most optimal skill and has both a  high demand and a high average salary of $94724. Other valuablle skills include azure, excel, sql and power BI.
 
-![optimal_skills](Assets\optimal_skills.png)
+![optimal_skills](Assets/optimal_skills.png)
 
 *Visualisation of the average salaries and demand count for data analyst positions in France - Graph generated with Tableau*
 
