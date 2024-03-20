@@ -230,7 +230,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 ```
-Python and SQL stand out as the most optimal skills and have both a  high demand and a high average salary of $94724. Other valuablle skills include azure, excel and power BI.
+Python and SQL stand out as the most optimal skills and have both a  high demand and a high average salary. Other valuablle skills include azure, excel and power BI.
 
 ![optimal_skills](Assets/optimal_skills.png)
 
